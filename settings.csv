@@ -1,0 +1,5 @@
+image sequence directory name (must be a sub-dir),animation
+output file name,output_animation
+frame rate,15
+output file type,mp4
+codec (will change depending on the output file type),mp4v
