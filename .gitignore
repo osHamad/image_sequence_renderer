@@ -1,9 +1,11 @@
 # input dir for code testing
 heart_pound/
+animation/
 
 # code output video files
 output.avi
 output.mp4
+output_animation.mp4
 
 # configuration files
 .idea
