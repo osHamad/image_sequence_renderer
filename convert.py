@@ -30,10 +30,8 @@ def main():
 
         to_video(image_sequence)
 
-
     else:
         print('Error: Image directory not found. Ensure that directory is in path.')
-
 
 
 if __name__ == '__main__':
